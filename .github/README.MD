@@ -3,7 +3,7 @@
 
 ![preview](./Preview.png)
 
-Projeto construido no evento NEXT LEVEL WEEK da Rockerseat
+Projeto construido no evento NEXT LEVEL WEEK da Rocketseat
 
 [Clique aqui para acessar] (https://rfls7.github.io/NLW-ESPORTS-EXPLORER/)
 
