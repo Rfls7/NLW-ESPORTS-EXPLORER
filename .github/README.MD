@@ -5,7 +5,7 @@
 
 Projeto construido no evento NEXT LEVEL WEEK da Rocketseat
 
-[Clique aqui para acessar] (https://rfls7.github.io/NLW-ESPORTS-EXPLORER/)
+Clique aqui para acessar -> https://rfls7.github.io/NLW-ESPORTS-EXPLORER/
 
 ## 🔧 Tecnologias 🔧
 
